@@ -1,0 +1,10 @@
+ad_id,theme,hook,run (first / re-run),start_date,end_date,spend,impressions,conversations,cost_per_conversation,first_run_cost (for re-runs),rerun_change_pct,decision (keep / re-run / retire),notes
+example,Free hardware / no upfront cost,Still paying thousands for POS systems?,first,,,,,17,686,,,keep,Theme total across 4 ads (INR)
+example,$89 all-in-one price,Still paying separately for your POS...?,first,,,,,17,958,,,keep,Theme total across 3 ads (INR)
+example,Transaction fees,Still on 2%?,first,,,,5159,9,1309,,,keep,Most-seen ad
+example,Hidden add-on costs (no price),Paying extra for Uber Eats sync? Xero? EFTPOS?,first,,,,,7,2136,,,retire,
+example,Menu insights,,first,,,,,2,2241,,,retire,
+example,Operational pain,Running a cafe already takes long hours...,first,,,,,2,2611,,,retire,Pain without an offer
+example,Delivery commissions,How much of every delivery order are you giving away?,first,,,,,3,3021,,,retire,
+example,Free hardware / no upfront cost,Still paying thousands for POS?,re-run (8 days later),,,,,,551,512,+8%,keep,
+example,$89 all-in-one price,$89 all-in-one,re-run (3 months later),,,,,,1347,517,+160%,refresh creative,Fatigue

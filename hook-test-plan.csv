@@ -1,0 +1,6 @@
+ad_id,theme,hook (first line),offer,creative (image / video / carousel),objective,audience,daily_budget,start_date,end_date,owner,notes
+A01,Free / no upfront cost,"Still paying thousands for [category]? There's a better way.",Free hardware / setup,Image,Messaging,Owners in [city],,,,,
+A02,Named price,"Still paying separately for [tool A], [tool B] and [tool C]?",[$X] all-in-one,Image,Messaging,Owners in [city],,,,,
+A03,Fees,"Still on [X]%? Your provider is making more from your business than you think.",Lower fees,Image,Messaging,Owners in [city],,,,,
+A04,Hidden costs,"Paying extra for [add-on 1]? [Add-on 2]? [Add-on 3]?",Everything included,Image,Messaging,Owners in [city],,,,,
+A05,Pain,"Running a [business type] already takes long hours…",Save time,Image,Messaging,Owners in [city],,,,,
