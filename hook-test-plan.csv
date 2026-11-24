@@ -1,6 +1,6 @@
-ad_id,theme,hook (first line),offer,creative (image / video / carousel),objective,audience,daily_budget,start_date,end_date,owner,notes
-A01,Free / no upfront cost,"Still paying thousands for [category]? There's a better way.",Free hardware / setup,Image,Messaging,Owners in [city],,,,,
-A02,Named price,"Still paying separately for [tool A], [tool B] and [tool C]?",[$X] all-in-one,Image,Messaging,Owners in [city],,,,,
-A03,Fees,"Still on [X]%? Your provider is making more from your business than you think.",Lower fees,Image,Messaging,Owners in [city],,,,,
-A04,Hidden costs,"Paying extra for [add-on 1]? [Add-on 2]? [Add-on 3]?",Everything included,Image,Messaging,Owners in [city],,,,,
-A05,Pain,"Running a [business type] already takes long hours…",Save time,Image,Messaging,Owners in [city],,,,,
+test_id,theme,hypothesis,hook (first line),offer,creative,pre_filled_message,objective,audience,placements,daily_budget,start_date,end_date,owner,status
+T01,Free hardware / no upfront cost,Upfront cost stops owners switching,Still paying thousands for POS systems? There's a better way.,Free POS hardware when you switch,Photo A (POS on counter),Hi! I'd like to know about the free hardware offer,Engagement → messaging apps,BNE +40km 25-65 broad,Advantage+ placements,400,,,,planned
+T02,Named price,A clear all-in price beats vague value,"Still paying separately for your POS, online ordering and Uber Eats?",$89/month all-in-one,Photo A,Hi! Tell me about the $89 all-in-one plan,Engagement → messaging apps,BNE +40km 25-65 broad,Advantage+ placements,400,,,,planned
+T03,Transaction fees,Owners don't check their % fees,Still on 2%? Your POS provider is making more from your restaurant than you think.,Lower transaction fees,Photo A,Hi! I'd like to compare my fees,Engagement → messaging apps,BNE +40km 25-65 broad,Advantage+ placements,400,,,,planned
+T04,Hidden add-on costs,Add-on fees annoy owners,Paying extra for Uber Eats sync? Xero? EFTPOS?,Everything included,Photo A,Hi! What's included in your plan?,Engagement → messaging apps,BNE +40km 25-65 broad,Advantage+ placements,400,,,,planned
+T05,Operational pain,Long hours are a shared pain,Running a café already takes long hours…,Save time at close,Photo A,Hi! How does it save time?,Engagement → messaging apps,BNE +40km 25-65 broad,Advantage+ placements,400,,,,planned
